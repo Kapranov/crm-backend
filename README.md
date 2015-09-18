@@ -5,6 +5,7 @@ We need a Rails API for Ember to communicate with in order to store and
 retrieve data.
 
 ```bash
+foreman start
 rake db:migrate
 rake db:populate
 rake db:fixtures:load RAILS_ENV=development
