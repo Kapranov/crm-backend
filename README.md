@@ -22,5 +22,5 @@ or should show you the first lead [Demo API-v1 first lead](http://212.26.132.121
 [Demo API-v3](http://212.26.132.121:2275/api/v3)
 
 
-Using Rails for API-only Applications[Rails API Guide](http://edgeguides.rubyonrails.org/api_app.html)
+Using Rails for API-only Applications [Rails API Guide](http://edgeguides.rubyonrails.org/api_app.html)
 ##### Oleg G.Kapranov 18 Sep 2015.
