@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+oleg:
+  first_name: Oleg
+  last_name: Kapranov
+  email: lugatex@yahoo.com
+  phone:  380997170609
+  status: new
+  notes: 'Oleg Note Page!'
+
+eric:
+  first_name: Eric
+  last_name: Guo
+  email: eric@cloud-mes.com
+  phone: 13901862171
+  status: new
+  notes: 'Eric Note Page!'
