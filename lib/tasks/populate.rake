@@ -6,7 +6,7 @@ namespace :db do
       ['new', 'in progress', 'closed', 'bad'].sample
     end
 
-    20.times do
+    9999.times do
       Lead.create(
         first_name: FFaker::Name.first_name,
         last_name: FFaker::Name.last_name,

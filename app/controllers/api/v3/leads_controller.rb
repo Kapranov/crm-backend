@@ -1,4 +1,4 @@
-module Api::V1
+module Api::V3
   class LeadsController < ApplicationController
     before_action :set_lead, only: [:show, :update, :destroy]
 
